@@ -19,6 +19,11 @@ The application is built using the following technologies:
     Javascript: for front end side logical operations.
     Html, CSS: for front end side designing.
     Docker: for containerizarition
+    RSpecs: for automated testing.
+
+**Third Party API for fetching movies**
+   So Cinema Era we are fetching movies from a third party source https://rapidapi.com/apidojo/api/imdb8/
+   and if user mark any movie as favorite then we store it into our db.
 
 **Installation**
 
