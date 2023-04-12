@@ -22,6 +22,7 @@ The application is built using the following technologies:
     RSpecs: for automated testing.
 
 **Third Party API for fetching movies**
+
    So Cinema Era we are fetching movies from a third party source https://rapidapi.com/apidojo/api/imdb8/
    and if user mark any movie as favorite then we store it into our db.
 
